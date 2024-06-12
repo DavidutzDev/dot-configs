@@ -1,6 +1,6 @@
 version = 2
 final_space = true
-console_title_template = '{{ .Folder }} :: {{if .Root}}Admin{{end}}'
+console_title_template = '{{ .User }} in Terminal'
 terminal_background = 'p:t-background'
 
 [palette]
