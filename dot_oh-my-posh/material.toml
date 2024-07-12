@@ -140,7 +140,7 @@ overflow = 'hide'
   type = 'php'
   style = 'plain'
   foreground = 'p:terminal-blue'
-  template = '\ue73d {{ .Full }} '
+  template = ' {{ .Full }} '
   
   [[blocks.segments]]
   type = 'python'
